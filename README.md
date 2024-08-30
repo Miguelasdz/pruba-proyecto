@@ -19,4 +19,18 @@ Este proyecto utiliza [Playwright](https://playwright.dev) para automatizar la b
 1. **Clona el repositorio:**
 
    ```bash
-   [[git clone https://github.com/tuusuario/mercadolibre-scraper.git](https://github.com/Miguelasdz/pruba-proyecto.git)](https://github.com/Miguelasdz/pruba-proyecto.git)
+   git clone https://github.com/tuusuario/mercadolibre-scraper.git](https://github.com/Miguelasdz/pruba-proyecto.git)](https://github.com/Miguelasdz/pruba-proyecto.git)
+
+
+2. **Navega al directorio del proyecto:**
+
+Copiar código
+cd prueba-proyecto
+Instala las dependencias:
+npm install
+
+3. **Uso**
+Ejecuta el script:
+
+node index.js
+Este comando iniciará el navegador, realizará la búsqueda y mostrará los primeros 5 productos en la consola.
