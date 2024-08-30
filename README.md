@@ -20,21 +20,23 @@ Este proyecto utiliza [Playwright](https://playwright.dev) para automatizar la b
 
    ```bash
    git clone https://github.com/Miguelasdz/pruba-proyecto.git
-Navega al directorio del proyecto:
 
-bash
-Copiar código
 
-cd prueba-proyecto
-Instala las dependencias:
+2. **Navega al directorio del proyecto:**
 
-bash
-Copiar código
-npm install
-Uso
-Ejecuta el script:
+   ```bash
+   cd prueba-proyecto
 
-bash
-Copiar código
-node index.js
+
+3. **Instala las dependencias:**
+
+   ```bash
+   npm install
+
+
+4. **Ejecuta el script:**
+
+   ```bash
+   node index.js
+
 Este comando iniciará el navegador, realizará la búsqueda y mostrará los primeros 5 productos en la consola.
