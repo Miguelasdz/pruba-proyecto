@@ -19,4 +19,4 @@ Este proyecto utiliza [Playwright](https://playwright.dev) para automatizar la b
 1. **Clona el repositorio:**
 
    ```bash
-   git clone https://github.com/tuusuario/mercadolibre-scraper.git
+   [[git clone https://github.com/tuusuario/mercadolibre-scraper.git](https://github.com/Miguelasdz/pruba-proyecto.git)](https://github.com/Miguelasdz/pruba-proyecto.git)
